@@ -63,6 +63,9 @@ SIMULADOR
 ![image](https://user-images.githubusercontent.com/105722861/169184955-3d24ddb1-b2de-4757-830f-f9770e0714e6.png)
 
 4. VIDEO
+
+ https://www.youtube.com/watch?v=8QlJKcLIIjU
+ 
 5. CONCLUSIONES 
 •En el circuito mixto de la práctica la corriente que entró a las nodos 1 y 2 no se almacenaron, por el contrario, se distribuye por las ramas que conforman el nodo. Se evidencia que la corriente que sale del nodo "1" es IT y entra I1 e I2 de modo que se equilibra la corriente demostrando la primera ley de kirchoff.
 
@@ -75,6 +78,7 @@ SIMULADOR
 6. BIBLIOGRAFÍA 
 McAllister,W. (2020). Las leyes de Kirchhoff.Obtenido de: 
 https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
 THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 2-57). México: Pearson Educación de México, S.A. de C.V.
 
 
