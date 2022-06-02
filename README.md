@@ -1,9 +1,15 @@
-# InformeLaboratorio
+# Informe Laboratorio N°1
 Asignatura: Fundamentos de Circuitos Eléctricos
 
 Docente: Ing. Darwin Alulema
 
-Integrantes: Nayely Tituaña, Anthony Tonato, Ariel Guano
+Integrantes: 
+
+•Nayely Tituaña
+
+•Anthony Tonato
+
+•Ariel Guano
 
 Semestre: Segundo
 
@@ -13,6 +19,7 @@ Laboratorio Nro: 1
 
 TEMA: Leyes de Kirchhoff
 1. OBJETIVOS
+
 •Analizar mediante las leyes de kirchoff las caídas de voltaje y distribución de corriente en cualquier circuito.
 
 OBJETIVOS ESPECIFICOS 
@@ -32,7 +39,8 @@ OBJETIVOS ESPECIFICOS
 
 ![image](https://user-images.githubusercontent.com/105722861/169185836-899b61c8-3023-4f67-ad3f-b08165c4c828.png)
 
-ANÁLISIS DE CIRCUITOS DE LA PRÁCTICA. 
+ANÁLISIS DE CIRCUITOS DE LA PRÁCTICA.
+
 El circuito es mixto de modo que la suma de sus resistencias es diferente en cada malla. El flujo de corriente en la malla 2 es en paralelo tal que el amperaje es el mismo para las dos resistencias de esa malla. La fuente de voltaje suministra es de 5 Volts la cual se tiene que consumir en las resistencias, provocando caídas de voltaje. El cálculo de corriente es importante para que no exista un aumento o descenso de energía en el circuito, causando cortocircuitos o un mal funcionamiento.
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -47,6 +55,7 @@ MATERIAL Y EQUIPO DE APOYO
 ![image](https://user-images.githubusercontent.com/105722861/169178149-c55cc717-454d-44ad-96b5-fc26f4da2288.png)
 
 PROCEDIMIENTO
+
 Arme el circuito que se muestra en la figura 1.1
 ![image](https://user-images.githubusercontent.com/105722861/169178416-1bf57309-f55c-4e10-ad36-5adffa5d632a.png)
 ![image](https://user-images.githubusercontent.com/105722861/169192608-0e7bd425-2c7c-414f-af9d-acf4b220030c.png)
@@ -67,6 +76,7 @@ SIMULADOR
  https://www.youtube.com/watch?v=8QlJKcLIIjU
  
 5. CONCLUSIONES 
+
 •En el circuito mixto de la práctica la corriente que entró a las nodos 1 y 2 no se almacenaron, por el contrario, se distribuye por las ramas que conforman el nodo. Se evidencia que la corriente que sale del nodo "1" es IT y entra I1 e I2 de modo que se equilibra la corriente demostrando la primera ley de kirchoff.
 
 •La fuente de voltaje que se encarga de suministar energía se tiene que equilibrar con todo lo que se está perdiendo en las caídas de potencial. Las resistencias se encargan de absorber la energía y hace que la corriente se frene y a consecuencia de eso hay una caída de voltaje. Los 10 Volts de entrada se consumieron en el circuito.
@@ -76,6 +86,7 @@ SIMULADOR
 •Conocimos cómo se emplean las leyes de kirchhoff, a la hora de realizar el circuito en el emulador se comprobó que los valores calculados con los medidos fueron similares. Se concluyó que las trayectorias se componen de nodos y mallas lo que nos permitió visualizar de manera más sencilla el comportamiento de la corriente. Del nodo 1 no existe porcentaje de error entre el valor de la corriente calculada con el medid,o evidenciando así que los cálculos realizados fueron exactos. El porcentaje de error en el voltaje de R5 de la trayectoria 1 fue de 0.27% lo que indica una diferencia pequeña entre el valor estimado y el valor real.
 
 6. BIBLIOGRAFÍA 
+
 McAllister,W. (2020). Las leyes de Kirchhoff.Obtenido de: 
 https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
